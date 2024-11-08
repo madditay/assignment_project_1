@@ -19,12 +19,12 @@ for key in collection_json['content']['set']['items']:
     
 print('Total number of items:', len(collection_json['content']['set']['items']))
 
-collection_set = '..'
+collection_set = '../assignment_project_1/collection_set.csv'
 headers = ['image', 'link', 'title']
 
 with open(collection_set, 'w', encoding='utf-8', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=headers)
-    writer.writerow(headers)
+    writer.writeheader()
     for item in collection_json['content']['set']['items']:
         item['title'] = item['title'].rstrip()
         writer.writerow(item)
