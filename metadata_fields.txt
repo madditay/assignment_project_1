@@ -1,0 +1,16 @@
+attribute	value
+call_number	['FLA 3303 (viewing print)', 'FEB 9839 (viewing print)', 'FRA 0614 (dupe neg pic)', 'FZA 2482 (dupe neg pic)', 'FRB 0433 (master pos pic)', 'Box 0848P (paper pos)', 'Box 5534E (paper pos, copy 2)']
+contributors	['White, James H. (James Henry), production', 'Thomas A. Edison, Inc', 'Paper Print Collection (Library of Congress)', 'Niver (Kemp) Collection (Library of Congress)']
+created_published	['United States : Thomas A. Edison, Inc., 1898.']
+date	1898
+digital_id	['https://hdl.loc.gov/loc.mbrsmi/ntscrm.01202820']
+format	['moving image']
+genre	['Actualities (Motion pictures)', 'Silent films', 'Short films', 'Nonfiction films']
+language	['eng']
+location	['New York (State)--New York', 'Central Park (New York, N.Y.)']
+medium	['viewing print 1 film reel of 1 (23 ft.) : si., b&w ; 16 mm.', 'viewing print 1 film reel of 1 (ca. 50 ft.) : si., b&w ; 35 mm.', 'dupe neg pic 1 film reel of 1 (23 ft.) : si., b&w ; 16 mm.', 'dupe neg pic 1 film reel of 1 (ca. 50 ft.) : si., b&w ; 35 mm.', 'master pos pic 1 film reel of 1 (ca. 25 ft.) : si., b&w ; 16 mm.', 'paper pos 1 roll of 1 (ca. 50 ft.) : b&w ; 35 mm.', 'paper pos (copy 2) 1 roll of 1 (ca. 50 ft.) : b&w ; 35 mm.']
+notes	['73462 U.S. Copyright Office', 'Copyright: Thomas A. Edison; 16Dec1898; 73462.', 'Duration: 0:47 at 15 fps.', 'Photographed November 28-29, 1898. Location: West Side Drive, Central Park, New York, N.Y.', 'Paper print shelf number (LC 0286) was changed when the paper prints were re-housed.', 'Additional holdings for this title may be available. Contact reference librarian.', 'Available also through the Library of Congress Web site as digital files.', 'Sources used: Niver, K. Early motion pictures, p. 301; American Film Institute catalog, film beginnings, 1893-1910, p. 989; Edison films catalog, no. 35, September, 1902, p. 111; Musser, C. Edison motion pictures, 1890-1900, p. 476.', 'Early motion pictures : the Paper Print Collection in the Library of Congress / by Kemp R. Niver. Library of  Congress. 1985.', '35 mm dupe neg pic renumbered: FPE 5574 to FZA 2482.']
+repository	['Library of Congress Motion Picture, Broadcasting and Recorded Sound Division Washington, D.C. 20540 USA dcu']
+subjects	['Sleighing--New York (State)--New York', 'Horse-drawn vehicles--New York (State)--New York', 'City and town life--New York (State)--New York', 'Central Park (New York, N.Y.)', 'Winter--New York (State)--New York']
+summary	['"A view taken on the West Side Drive in Central Park. Shows a continuous stream of handsome rigs and turnouts passing in both directions. Pedestrians watch the gay carnival. 50 feet"--Edison films catalog.']
+title	Sleighing scene
